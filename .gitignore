@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#important datafile
+secret.py
+
 # Distribution / packaging
 .Python
 build/
