@@ -1,2 +1,2 @@
-web: python server.py
+web: gunicorn server:app --preload --workers 1
 worker: python main.py
