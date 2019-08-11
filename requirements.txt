@@ -2,4 +2,4 @@ InstagramAPI==1.0.2
 Pillow==6.1.0
 Flask==1.1.1
 python_twitter==3.5
-gunicoen>=19.5.0
+gunicorn>=19.5.0
