@@ -20,6 +20,6 @@ if __name__ == "__main__":
         td = tweetdata(edited_caption)
         ip = InstagramPost(photo_path,edited_caption)
 
-        td.tweet()
-        ip.post()
+        # td.tweet()
+        # ip.post()
 

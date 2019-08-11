@@ -1,0 +1,6 @@
+setuptools==40.6.3
+pip==18.1
+wheel==0.32.3
+InstagramAPI==1.0.2
+Pillow==6.1.0
+python_twitter==3.5
