@@ -1,4 +1,10 @@
-from secret import CK, CSK, AT, AST
+# from secret import CK, CSK, AT, AST
+from os import environ
+CK = environ['CK']
+CSK = environ['CSK']
+AT = environ['AT']
+AST = environ['AST']
+
 import twitter
 
 class tweetdata():

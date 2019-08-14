@@ -1,6 +1,9 @@
+from os import environ
 from InstagramAPI import InstagramAPI
-from secret import UN
-from secret import PW
+# from secret import UN
+# from secret import PW
+UN = environ['UN']
+PW = environ['PW']
 
 
 class InstagramPost():
