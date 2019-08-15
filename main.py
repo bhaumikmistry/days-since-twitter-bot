@@ -11,7 +11,7 @@ sched = BlockingScheduler()
 def job():
     print('This job is run every minute.')
 
-@sched.scheduled_job('cron', hour=0, minute=22)
+@sched.scheduled_job('cron', hour=0, minute=3)
 def timed_job():
     print('This runs every day 00:05')
     d = data()
