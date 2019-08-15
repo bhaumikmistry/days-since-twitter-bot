@@ -7,7 +7,11 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 
 sched = BlockingScheduler()
 
-@sched.scheduled_job('cron', day='*', hour=0, minute=22)
+@sched.scheduled_job('cron', day='1-31', hour=23, minute=35)
+def timed_job():
+    print("test run at 23:35")
+
+@sched.scheduled_job('cron', day='1-31', hour=0, minute=22)
 def timed_job():
     print('This runs every day 00:05')
     d = data()
