@@ -9,7 +9,7 @@ sched = BlockingScheduler()
 
 @sched.scheduled_job('interval', minutes=1)
 def job():
-    print 'This job is run every minute.'
+    print('This job is run every minute.')
 
 @sched.scheduled_job('cron', hour=0, minute=22)
 def timed_job():
