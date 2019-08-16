@@ -16,7 +16,7 @@ class data:
     def get_string(self):
         return '{}'.format(self.get_days_since_last_world_cup_won())
 
-## Test
+# # Test
 # if __name__ == "__main__":
 #     d = data()
 #     print d.get_string_to_tweet()
