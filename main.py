@@ -1,31 +1,31 @@
-from days_since import data
+from days_since import Data
 from generate_image import GenerateImage
 from caption_creator import CaptionCreator
-from tweet import tweetdata
+from tweet import Tweetdata
 from inatgrampost import InstagramPost
-from apscheduler.schedulers.blocking import BlockingScheduler
 
-sched = BlockingScheduler()
 
-# @sched.scheduled_job('cron', hour=0, minute=5)
-# def timed_job():
-#     print('This runs every day 00:05')
-d = data()
-caption = d.get_string()
+class PostDsiwacwc:
+    def __init__(self):
+        print("PostDsiwacwc __init__()")
+    def Post(self):
+        print("Posting Data")
+        d = Data()
+        caption = d.get_string()
 
-gi = GenerateImage(caption)
-photo_path = gi.generate_image()
+        gi = GenerateImage(caption)
+        photo_path = gi.generate_image()
 
-cc = CaptionCreator()
-edited_caption = "Days Since India Won A Cricket World Cup: "
-edited_caption += caption
-add_on = cc.get_caption_add_on()
-edited_caption += add_on
+        cc = CaptionCreator()
+        edited_caption = "Days Since India Won A Cricket World Cup: "
+        edited_caption += caption
+        add_on = cc.get_caption_add_on()
+        edited_caption += add_on
 
-td = tweetdata(edited_caption,photo_path)
-ip = InstagramPost(photo_path,edited_caption)
+        td = Tweetdata(edited_caption,photo_path)
+        ip = InstagramPost(photo_path,edited_caption)
+        print("Tweet and instagram object created.")
 
-td.tweet()
-ip.post()
+        # td.tweet()
+        # ip.post()
 
-# sched.start()

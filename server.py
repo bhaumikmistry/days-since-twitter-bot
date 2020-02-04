@@ -1,15 +1,8 @@
 from os import environ
 from flask import Flask
+from main import PostDsiwacwc
 
 app = Flask(__name__)
-
-class Test:
-    def __init__(self):
-        print("__init__()")
-
-    def Run(self):
-        print("Run()")
-        print("Running from class test")
 
 @app.route('/')
 def hello():
@@ -17,8 +10,8 @@ def hello():
 
 @app.route('/dsiwawc')
 def dsiwawc():
-    test = Test()
-    test.Run()
+    post = PostDsiwacwc()
+    post.Post()
     return "Days since India Won a Work Cup!"
 
 

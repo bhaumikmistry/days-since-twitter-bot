@@ -1,13 +1,13 @@
-from secret import CK, CSK, AT, AST
+# from secret import CK, CSK, AT, AST
 from os import environ
-# CK = environ['CK']
-# CSK = environ['CSK']
-# AT = environ['AT']
-# AST = environ['AST']
+CK = environ['CK']
+CSK = environ['CSK']
+AT = environ['AT']
+AST = environ['AST']
 
 import twitter
 
-class tweetdata():
+class Tweetdata():
     def __init__(self,data,path):
         self.text = data
         self.photo_path = path
