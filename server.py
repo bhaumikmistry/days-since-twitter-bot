@@ -17,9 +17,10 @@ def hello():
 
 @app.route('/dsiwawc')
 def dsiwawc():
-    return "Days since India Won a Work Cup!"
     test = Test()
     test.Run()
+    return "Days since India Won a Work Cup!"
+
 
 
 
