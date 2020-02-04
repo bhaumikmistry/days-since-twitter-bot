@@ -28,10 +28,10 @@ class PostDsiwacwc:
 
         if info == "tweet":
             td.tweet()
-        else if info == "insta":
+        elif info == "insta":
             if not ip.post():
                 print("Error in instagram post()")
-        else if info == "all":
+        elif info == "all":
             td.tweet()
             if not ip.post():
                 print("Error in instagram post()")
