@@ -1,5 +1,5 @@
 from PIL import Image, ImageDraw, ImageFont
-from days_since import data
+from days_since import Data
 
 class GenerateImage():
     def __init__(self,text_to_add):
