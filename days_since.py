@@ -2,7 +2,7 @@ import datetime
 
 class Data:
     def __init__(self):
-        print("init data")
+        print("init Data")
 
     def get_last_occurrence(self):
         Date = datetime.datetime(2011,4,2)

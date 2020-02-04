@@ -8,12 +8,23 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 
-@app.route('/dsiwawc')
+@app.route('/dsiwawc/all')
 def dsiwawc():
     post = PostDsiwacwc()
-    post.Post()
+    post.Post("all")
     return "Days since India Won a Work Cup!"
 
+@app.route('/dsiwawc/twiter')
+def dsiwawc():
+    post = PostDsiwacwc()
+    post.Post("tweet")
+    return "Days since India Won a Work Cup!"
+
+@app.route('/dsiwawc/instagram')
+def dsiwawc():
+    post = PostDsiwacwc()
+    post.Post("insta")
+    return "Days since India Won a Work Cup!"
 
 
 

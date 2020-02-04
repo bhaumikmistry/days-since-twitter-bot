@@ -14,6 +14,7 @@ class Tweetdata():
 
     def tweet(self):
         api = twitter.Api(consumer_key=CK,consumer_secret=CSK,access_token_key=AT,access_token_secret=AST)
-        api.PostUpdate(self.text,self.photo_path)
+        json = api.PostUpdate(self.text,self.photo_path)
+        print(json)
         print("tweeted data {}",format(self.text))
 

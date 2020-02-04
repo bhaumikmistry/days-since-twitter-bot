@@ -14,5 +14,5 @@ class InstagramPost():
     def post(self):
         instagramAPI = InstagramAPI(UN,PW)
         if(instagramAPI.login()):
-            print("Image Posted with caption {}".format(self.text))
-            instagramAPI.uploadPhoto(photo=self.image,caption=self.text)
+            print("Image post attempted with caption {} {}".format(self.image,self.text))
+            return instagramAPI.uploadPhoto(photo=self.image,caption=self.text)

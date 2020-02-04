@@ -8,7 +8,7 @@ from inatgrampost import InstagramPost
 class PostDsiwacwc:
     def __init__(self):
         print("PostDsiwacwc __init__()")
-    def Post(self):
+    def Post(self,info):
         print("Posting Data")
         d = Data()
         caption = d.get_string()
@@ -26,6 +26,15 @@ class PostDsiwacwc:
         ip = InstagramPost(photo_path,edited_caption)
         print("Tweet and instagram object created.")
 
-        td.tweet()
-        ip.post()
+        if info == "tweet":
+            td.tweet()
+        else if info == "insta":
+            if not ip.post():
+                print("Error in instagram post()")
+        else if info == "all":
+            td.tweet()
+            if not ip.post():
+                print("Error in instagram post()")
+
+
 
