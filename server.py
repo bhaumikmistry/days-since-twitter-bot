@@ -7,7 +7,7 @@ class Test:
     def __init__(self):
         print("__init__()")
 
-    def Run():
+    def Run(self):
         print("Run()")
         print("Running from class test")
 
