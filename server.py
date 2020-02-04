@@ -1,8 +1,15 @@
 from os import environ
 from flask import Flask
-from main import Test
 
 app = Flask(__name__)
+
+class Test:
+    def __init__(self):
+        print("__init__()")
+
+    def Run():
+        print("Run()")
+        print("Running from class test")
 
 @app.route('/')
 def hello():
