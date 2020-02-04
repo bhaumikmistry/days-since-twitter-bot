@@ -8,19 +8,19 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
 
-@app.route('/dsiwawc/all')
+@app.route('/dsiwacwc/all')
 def dsiwawc_all():
     post = PostDsiwacwc()
     post.Post("all")
     return "Days since India Won a Work Cup!"
 
-@app.route('/dsiwawc/twiter')
+@app.route('/dsiwacwc/twiter')
 def dsiwawc_twiter():
     post = PostDsiwacwc()
     post.Post("tweet")
     return "Days since India Won a Work Cup!"
 
-@app.route('/dsiwawc/instagram')
+@app.route('/dsiwacwc/instagram')
 def dsiwawc_instagram():
     post = PostDsiwacwc()
     post.Post("insta")
