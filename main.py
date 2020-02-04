@@ -26,6 +26,6 @@ class PostDsiwacwc:
         ip = InstagramPost(photo_path,edited_caption)
         print("Tweet and instagram object created.")
 
-        # td.tweet()
-        # ip.post()
+        td.tweet()
+        ip.post()
 
