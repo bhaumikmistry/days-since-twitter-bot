@@ -50,8 +50,20 @@ facts = [
     "2nd Highest partnerships in ICC Cricket World Cup, Total Runs 244 (2nd wicket), Sachin Tendulkar (152) & Sourav Ganguly (111) Against Namibia at Pietermaritzburg in 2003",
     "3rd Highest partnerships in ICC Cricket World Cup, Total Runs 237* (3rd wicket), Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in 1999",
     "4th Highest partnerships in ICC Cricket World Cup, Total Runs 203 (3rd wicket), Virender Sehwag (175) & Virat Kohli (100) Against Bangladesh at Dhaka in 2011",
-    "5th Highest partnerships in ICC Cricket World Cup, Total Runs 202 (2nd wicket), Sourav Ganguly (89) & Virender Sehwag (114) Against Bermuda at Port of Spain in 2007"
+    "5th Highest partnerships in ICC Cricket World Cup, Total Runs 202 (2nd wicket), Sourav Ganguly (89) & Virender Sehwag (114) Against Bermuda at Port of Spain in 2007",
+    "Highest partnership for 1st wicket in ICC Cricket World Cup, 189 by, Rohit Sharma (103) & K. L. Rahul (111) Against Sri Lanka at Leeds in year 2019",
+    "Highest partnership for 2nd wicket in ICC Cricket World Cup, 318 by, Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka at Taunton	in year 1999",
+    "Highest partnership for 3rd wicket in ICC Cricket World Cup, 237* by, Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in year 1999",
+    "Highest partnership for 4th wicket in ICC Cricket World Cup, 142 by, Navjot Singh Sidhu (80) & Vinod Kambli (106) Against Zimbabwe at Kanpur in year 1996",
+    "Highest partnership for 5th wicket in ICC Cricket World Cup, 196* by, Suresh Raina (110*) & Mahendra Singh Dhoni (85*) Against Zimbabwe at Auckland	in year 2015",
+    "Highest partnership for 6th wicket in ICC Cricket World Cup, 74* by, Suresh Raina (34*) & Yuvraj Singh (57*) Against Australia at Ahmedabad	in year 2011",
+    "Highest partnership for 7th wicket in ICC Cricket World Cup, 116 by, Ravindra Jadeja (77) & Mahendra Singh Dhoni (50) Against New Zealand at Manchester	in year 2019",
+    "Highest partnership for 8th wicket in ICC Cricket World Cup, 82* by, Kapil Dev (72*) & Kiran More (42*) Against New Zealand	at Bangalore in year 1987",
+    "Highest partnership for 9th wicket in ICC Cricket World Cup, 126* by, Kapil Dev (175*) & Syed Kirmani (24*) Against Zimbabwe at Tunbridge Wells	in year 1983",
+    "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007"
+
 ]
+
 
 
 if __name__ == "__main__":
