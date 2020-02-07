@@ -10,14 +10,20 @@ facts = [
     "2nd Lowest Completed Innings, 158 (37.5 overs)	v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
     "3rd Lowest Completed Innings, 182 (55.5 overs)	v New Zealand, New Zealand won by 8 wickets, 6th Match, ICC Cricket World Cup at Leeds, Jun 13 1979",
     "4th Lowest Completed Innings, 183 (54.4 overs)	v West Indies,  India won by 43 runs, Final, ICC Cricket World Cup at Lord's, Jun 25 1983",
-    "5th Lowest Completed Innings, 185 (43.3 overs)	v Sri Lanka, Sri Lanka won by 69 runs, 20th Match, Group B, ICC World Cup at Port of Spain, Mar 23 2007"
+    "5th Lowest Completed Innings, 185 (43.3 overs)	v Sri Lanka, Sri Lanka won by 69 runs, 20th Match, Group B, ICC World Cup at Port of Spain, Mar 23 2007",
+    "1st Best Bowling Innings Figures, 6–23 (10 overs)	Ashish Nehra v England, India won by 82 runs, 30th Match (D/N), ICC World Cup at Durban, Feb 26 2003",
+    "2nd Best Bowling Innings Figures, 5–27 (9.3 overs)	Venkatesh Prasad v Pakistan, India won by 47 runs, 4th Super, ICC World Cup at Manchester, Jun 8 1999",
+    "3rd Best Bowling Innings Figures, 5–31 (9.3 overs)	Robin Singh	v Sri Lanka, India won by 157 runs, 21st Match, ICC World Cup at Taunton, May 26 1999",
+    "4th Best Bowling Innings Figures, 5–31 (10 overs)	Yuvraj Singh v Ireland, India won by 5 wickets, 22nd Match, Group B (D/N), ICC Cricket World Cup at Bengaluru, Mar 6 2011",
+    "5th Best Bowling Innings Figures, 5–43 (12 overs)	Kapil Dev v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983"
 ]
 
 
-# if __name__ == "__main__":
-#     length = len(facts)
-#     print(length)
+if __name__ == "__main__":
+    length = len(facts)
+    print(f'length -> {length}')
 
-#     random_number = randint(0,length)
-#     print(random_number)
+    random_number = randint(0,length-1)
+    print(f'random -> {random_number}')
+    print(f'Fact -> {facts[random_number]}')
 
