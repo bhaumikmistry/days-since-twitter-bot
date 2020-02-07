@@ -28,10 +28,26 @@ facts = [
     "ICC Cricket World Cup Year 2011, at India Bangladesh Sri Lanka, India's last position was at Round - Champions, Games Played 9, Won 7, No result 1, Lost 1, with Captain MS Dhoni",
     "ICC Cricket World Cup Year 2015, at Australia New Zealand, India's last position was at Round - Semi-finals, Games Played 8, Won 7, No result 0, Lost 1, with Captain MS Dhoni",
     "ICC Cricket World Cup Year 2019, at England Wales, India's last position was at Round - Semi-finals, Games Played 10, Won 7, No result 1, Lost 2, with Captain Virat Kohli",
-    "ICC Cricket World Cup Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29"
+    "ICC Cricket World Cup Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29",
+    "ICC Cricket World Cup, India's record against Australia: Match Played 12, Won 4, Lost 8, Tied 0, No Result 0, Win % 33.33 First Played on13 June 1983",
+    "ICC Cricket World Cup, India's record against Afghanistan: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 22 June 2019",
+    "ICC Cricket World Cup, India's record against Bangladesh: Match Played 4, Won 3, Lost 1, Tied	0, No Result 0, Win % 75.00 First Played on 17 March 2007",
+    "ICC Cricket World Cup, India's record against Bermuda: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 19  March 2007",
+    "ICC Cricket World Cup, India's record against East Africa: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 11 June 1975",
+    "ICC Cricket World Cup, India's record against England: Match Played 8, Won 3, Lost 4, Tied	1, No Result 0, Win % 37.5 First Played on 7 June 1975",
+    "ICC Cricket World Cup, India's record against Ireland: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 6   March 2011",
+    "ICC Cricket World Cup, India's record against Kenya: Match Played 4, Won 4, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 18 February 1996",
+    "ICC Cricket World Cup, India's record against Namibia: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 23 February 2003",
+    "ICC Cricket World Cup, India's record against Netherlands: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 12 February 2003",
+    "ICC Cricket World Cup, India's record against New Zealand: Match Played 8, Won 3, Lost 5, Tied	0, No Result 0, Win % 37.5 First Played on 4 June 1975",
+    "ICC Cricket World Cup, India's record against Pakistan: Match Played 7, Won 7, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 4 March 1992",
+    "ICC Cricket World Cup, India's record against South Africa: Match Played 5, Won 2, Lost 3, Tied	0, No Result 0, Win % 40 First Played on 15 March 1992",
+    "ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied	0, No Result 1, Win % 44.44 First Played on 18 June 1979",
+    "ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 28 February 2015",
+    "ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied	0, No Result 0, Win % 66.66 First Played on 9 June 1979",
+    "ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89 First Played on 11 June 1983"
+
 ]
-
-
 
 if __name__ == "__main__":
     length = len(facts)
