@@ -15,8 +15,22 @@ facts = [
     "2nd Best Bowling Innings Figures, 5–27 (9.3 overs)	Venkatesh Prasad v Pakistan, India won by 47 runs, 4th Super, ICC World Cup at Manchester, Jun 8 1999",
     "3rd Best Bowling Innings Figures, 5–31 (9.3 overs)	Robin Singh	v Sri Lanka, India won by 157 runs, 21st Match, ICC World Cup at Taunton, May 26 1999",
     "4th Best Bowling Innings Figures, 5–31 (10 overs)	Yuvraj Singh v Ireland, India won by 5 wickets, 22nd Match, Group B (D/N), ICC Cricket World Cup at Bengaluru, Mar 6 2011",
-    "5th Best Bowling Innings Figures, 5–43 (12 overs)	Kapil Dev v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983"
+    "5th Best Bowling Innings Figures, 5–43 (12 overs)	Kapil Dev v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
+    "ICC Cricket World Cup Year 1975, at England, India's last position was at Round - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain S Venkataraghavan",
+    "ICC Cricket World Cup Year 1979, at England, India's last position was at Round - Group stage, Games Played 3, Won 0, No result 0, Lost 3, with Captain S Venkataraghavan",
+    "ICC Cricket World Cup Year 1983, at England, India's last position was at Round - Champions, Games Played 8, Won 6, No result 0, Lost 2, with Captain Kapil Dev",
+    "ICC Cricket World Cup Year 1987, at India Pakistan, India's last position was at Round - Semi-finals, Games Played 7, Won 5, No result 0, Lost 2, with Captain Kapil Dev",
+    "ICC Cricket World Cup Year 1992, at Australia New Zealand, India's last position was at Round - India's last position was at Round-robin, Games Played 8, Won 2, No result 1, Lost 5, with Captain M Azharuddin",
+    "ICC Cricket World Cup Year 1996, at India Pakistan Sri Lanka, India's last position was at Round - Semi-finals, Games Played 7, Won 4, No result 0, Lost 3, with Captain M Azharuddin",
+    "ICC Cricket World Cup Year 1999, at England Scotland Ireland Netherlands, India's last position was at Round - Super Six, Games Played 8, Won 4, No result 0, Lost 4, with Captain M Azharuddin",
+    "ICC Cricket World Cup Year 2003, at South Africa Zimbabwe Kenya, India's last position was at Round - Runners-up,	Games Played 11, Won 9, No result 0, Lost 2, with Captain Sourav Ganguly",
+    "ICC Cricket World Cup Year 2007, at West Indies Cricket Board, India's last position was at Round - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain Rahul Dravid",
+    "ICC Cricket World Cup Year 2011, at India Bangladesh Sri Lanka, India's last position was at Round - Champions, Games Played 9, Won 7, No result 1, Lost 1, with Captain MS Dhoni",
+    "ICC Cricket World Cup Year 2015, at Australia New Zealand, India's last position was at Round - Semi-finals, Games Played 8, Won 7, No result 0, Lost 1, with Captain MS Dhoni",
+    "ICC Cricket World Cup Year 2019, at England Wales, India's last position was at Round - Semi-finals, Games Played 10, Won 7, No result 1, Lost 2, with Captain Virat Kohli",
+    "ICC Cricket World Cup Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29"
 ]
+
 
 
 if __name__ == "__main__":
