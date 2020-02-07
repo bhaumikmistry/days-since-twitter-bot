@@ -45,9 +45,14 @@ facts = [
     "ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied	0, No Result 1, Win % 44.44 First Played on 18 June 1979",
     "ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 28 February 2015",
     "ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied	0, No Result 0, Win % 66.66 First Played on 9 June 1979",
-    "ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89 First Played on 11 June 1983"
-
+    "ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89 First Played on 11 June 1983",
+    "1st Highest partnerships in ICC Cricket World Cup, Total Runs 318 (2nd wicket), Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka	at Taunton in 1999",
+    "2nd Highest partnerships in ICC Cricket World Cup, Total Runs 244 (2nd wicket), Sachin Tendulkar (152) & Sourav Ganguly (111) Against Namibia at Pietermaritzburg in 2003",
+    "3rd Highest partnerships in ICC Cricket World Cup, Total Runs 237* (3rd wicket), Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in 1999",
+    "4th Highest partnerships in ICC Cricket World Cup, Total Runs 203 (3rd wicket), Virender Sehwag (175) & Virat Kohli (100) Against Bangladesh at Dhaka in 2011",
+    "5th Highest partnerships in ICC Cricket World Cup, Total Runs 202 (2nd wicket), Sourav Ganguly (89) & Virender Sehwag (114) Against Bermuda at Port of Spain in 2007"
 ]
+
 
 if __name__ == "__main__":
     length = len(facts)
