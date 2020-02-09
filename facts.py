@@ -17,35 +17,35 @@ facts = [
     "4th Best Bowling Innings Figures, 5–31 (10 overs)	Yuvraj Singh v Ireland, India won by 5 wickets, 22nd Match, Group B (D/N), ICC Cricket World Cup at Bengaluru, Mar 6 2011",
     "5th Best Bowling Innings Figures, 5–43 (12 overs)	Kapil Dev v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
     "ICC Cricket World Cup Year 1975, at England, India's last position was at Round - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain S Venkataraghavan",
-    "ICC Cricket World Cup Year 1979, at England, India's last position was at Round - Group stage, Games Played 3, Won 0, No result 0, Lost 3, with Captain S Venkataraghavan",
-    "ICC Cricket World Cup Year 1983, at England, India's last position was at Round - Champions, Games Played 8, Won 6, No result 0, Lost 2, with Captain Kapil Dev",
-    "ICC Cricket World Cup Year 1987, at India Pakistan, India's last position was at Round - Semi-finals, Games Played 7, Won 5, No result 0, Lost 2, with Captain Kapil Dev",
-    "ICC Cricket World Cup Year 1992, at Australia New Zealand, India's last position was at Round - India's last position was at Round-robin, Games Played 8, Won 2, No result 1, Lost 5, with Captain M Azharuddin",
-    "ICC Cricket World Cup Year 1996, at India Pakistan Sri Lanka, India's last position was at Round - Semi-finals, Games Played 7, Won 4, No result 0, Lost 3, with Captain M Azharuddin",
-    "ICC Cricket World Cup Year 1999, at England Scotland Ireland Netherlands, India's last position was at Round - Super Six, Games Played 8, Won 4, No result 0, Lost 4, with Captain M Azharuddin",
-    "ICC Cricket World Cup Year 2003, at South Africa Zimbabwe Kenya, India's last position was at Round - Runners-up,	Games Played 11, Won 9, No result 0, Lost 2, with Captain Sourav Ganguly",
-    "ICC Cricket World Cup Year 2007, at West Indies Cricket Board, India's last position was at Round - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain Rahul Dravid",
-    "ICC Cricket World Cup Year 2011, at India Bangladesh Sri Lanka, India's last position was at Round - Champions, Games Played 9, Won 7, No result 1, Lost 1, with Captain MS Dhoni",
-    "ICC Cricket World Cup Year 2015, at Australia New Zealand, India's last position was at Round - Semi-finals, Games Played 8, Won 7, No result 0, Lost 1, with Captain MS Dhoni",
-    "ICC Cricket World Cup Year 2019, at England Wales, India's last position was at Round - Semi-finals, Games Played 10, Won 7, No result 1, Lost 2, with Captain Virat Kohli",
-    "ICC Cricket World Cup Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29",
-    "ICC Cricket World Cup, India's record against Australia: Match Played 12, Won 4, Lost 8, Tied 0, No Result 0, Win % 33.33 First Played on13 June 1983",
-    "ICC Cricket World Cup, India's record against Afghanistan: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 22 June 2019",
-    "ICC Cricket World Cup, India's record against Bangladesh: Match Played 4, Won 3, Lost 1, Tied	0, No Result 0, Win % 75.00 First Played on 17 March 2007",
-    "ICC Cricket World Cup, India's record against Bermuda: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 19  March 2007",
-    "ICC Cricket World Cup, India's record against East Africa: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 11 June 1975",
-    "ICC Cricket World Cup, India's record against England: Match Played 8, Won 3, Lost 4, Tied	1, No Result 0, Win % 37.5 First Played on 7 June 1975",
-    "ICC Cricket World Cup, India's record against Ireland: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 6   March 2011",
-    "ICC Cricket World Cup, India's record against Kenya: Match Played 4, Won 4, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 18 February 1996",
-    "ICC Cricket World Cup, India's record against Namibia: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 23 February 2003",
-    "ICC Cricket World Cup, India's record against Netherlands: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 12 February 2003",
-    "ICC Cricket World Cup, India's record against New Zealand: Match Played 8, Won 3, Lost 5, Tied	0, No Result 0, Win % 37.5 First Played on 4 June 1975",
-    "ICC Cricket World Cup, India's record against Pakistan: Match Played 7, Won 7, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 4 March 1992",
-    "ICC Cricket World Cup, India's record against South Africa: Match Played 5, Won 2, Lost 3, Tied	0, No Result 0, Win % 40 First Played on 15 March 1992",
-    "ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied	0, No Result 1, Win % 44.44 First Played on 18 June 1979",
-    "ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 28 February 2015",
-    "ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied	0, No Result 0, Win % 66.66 First Played on 9 June 1979",
-    "ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89 First Played on 11 June 1983",
+    "In ICC Cricket World Cup Year 1979, at England, India's last position was at Round - Group stage, Games Played 3, Won 0, No result 0, Lost 3, with Captain S Venkataraghavan",
+    "In ICC Cricket World Cup Year 1983, at England, India's last position was at Round - Champions, Games Played 8, Won 6, No result 0, Lost 2, with Captain Kapil Dev",
+    "In ICC Cricket World Cup Year 1987, at India Pakistan, India's last position was at Round - Semi-finals, Games Played 7, Won 5, No result 0, Lost 2, with Captain Kapil Dev",
+    "In ICC Cricket World Cup Year 1992, at Australia New Zealand, India's last position was at Round - India's last position was at Round-robin, Games Played 8, Won 2, No result 1, Lost 5, with Captain M Azharuddin",
+    "In ICC Cricket World Cup Year 1996, at India Pakistan Sri Lanka, India's last position was at Round - Semi-finals, Games Played 7, Won 4, No result 0, Lost 3, with Captain M Azharuddin",
+    "In ICC Cricket World Cup Year 1999, at England Scotland Ireland Netherlands, India's last position was at Round - Super Six, Games Played 8, Won 4, No result 0, Lost 4, with Captain M Azharuddin",
+    "In ICC Cricket World Cup Year 2003, at South Africa Zimbabwe Kenya, India's last position was at Round - Runners-up,	Games Played 11, Won 9, No result 0, Lost 2, with Captain Sourav Ganguly",
+    "In ICC Cricket World Cup Year 2007, at West Indies Cricket Board, India's last position was at Round - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain Rahul Dravid",
+    "In ICC Cricket World Cup Year 2011, at India Bangladesh Sri Lanka, India's last position was at Round - Champions, Games Played 9, Won 7, No result 1, Lost 1, with Captain MS Dhoni",
+    "In ICC Cricket World Cup Year 2015, at Australia New Zealand, India's last position was at Round - Semi-finals, Games Played 8, Won 7, No result 0, Lost 1, with Captain MS Dhoni",
+    "In ICC Cricket World Cup Year 2019, at England Wales, India's last position was at Round - Semi-finals, Games Played 10, Won 7, No result 1, Lost 2, with Captain Virat Kohli",
+    "In ICC Cricket World Cup Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29",
+    "In ICC Cricket World Cup, India's record against Australia: Match Played 12, Won 4, Lost 8, Tied 0, No Result 0, Win % 33.33 First Played on13 June 1983",
+    "In ICC Cricket World Cup, India's record against Afghanistan: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 22 June 2019",
+    "In ICC Cricket World Cup, India's record against Bangladesh: Match Played 4, Won 3, Lost 1, Tied	0, No Result 0, Win % 75.00 First Played on 17 March 2007",
+    "In ICC Cricket World Cup, India's record against Bermuda: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 19  March 2007",
+    "In ICC Cricket World Cup, India's record against East Africa: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 11 June 1975",
+    "In ICC Cricket World Cup, India's record against England: Match Played 8, Won 3, Lost 4, Tied	1, No Result 0, Win % 37.5 First Played on 7 June 1975",
+    "In ICC Cricket World Cup, India's record against Ireland: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 6   March 2011",
+    "In ICC Cricket World Cup, India's record against Kenya: Match Played 4, Won 4, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 18 February 1996",
+    "In ICC Cricket World Cup, India's record against Namibia: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 23 February 2003",
+    "In ICC Cricket World Cup, India's record against Netherlands: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 12 February 2003",
+    "In ICC Cricket World Cup, India's record against New Zealand: Match Played 8, Won 3, Lost 5, Tied	0, No Result 0, Win % 37.5 First Played on 4 June 1975",
+    "In ICC Cricket World Cup, India's record against Pakistan: Match Played 7, Won 7, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 4 March 1992",
+    "In ICC Cricket World Cup, India's record against South Africa: Match Played 5, Won 2, Lost 3, Tied	0, No Result 0, Win % 40 First Played on 15 March 1992",
+    "In ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied	0, No Result 1, Win % 44.44 First Played on 18 June 1979",
+    "In ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100 First Played on 28 February 2015",
+    "In ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied	0, No Result 0, Win % 66.66 First Played on 9 June 1979",
+    "In ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89 First Played on 11 June 1983",
     "1st Highest partnerships in ICC Cricket World Cup, Total Runs 318 (2nd wicket), Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka	at Taunton in 1999",
     "2nd Highest partnerships in ICC Cricket World Cup, Total Runs 244 (2nd wicket), Sachin Tendulkar (152) & Sourav Ganguly (111) Against Namibia at Pietermaritzburg in 2003",
     "3rd Highest partnerships in ICC Cricket World Cup, Total Runs 237* (3rd wicket), Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in 1999",
@@ -66,11 +66,11 @@ facts = [
 
 
 
-if __name__ == "__main__":
-    length = len(facts)
-    print(f'length -> {length}')
+# if __name__ == "__main__":
+#     length = len(facts)
+#     print(f'length -> {length}')
 
-    random_number = randint(0,length-1)
-    print(f'random -> {random_number}')
-    print(f'Fact -> {facts[random_number]}')
+#     random_number = randint(0,length-1)
+#     print(f'random -> {random_number}')
+#     print(f'Fact -> {facts[random_number]}')
 
