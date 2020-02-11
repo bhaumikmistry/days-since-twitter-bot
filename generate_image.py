@@ -103,7 +103,7 @@ class GenerateImage():
         w, h = draw.textsize(message,font=font)
         draw.text(((x-w)/2,(y-h)/2),message,fill=color,font=font)
 
-        filename = "data/{}.jpg".format("new")
+        filename = "data/{}.jpg".format("test")
         image_data.save(filename)
 
     def generate_image_from_url(self,link) -> Image:
