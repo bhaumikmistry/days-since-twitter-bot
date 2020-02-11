@@ -31,7 +31,8 @@ class PostDsiwacwc:
         image = images[random_number_img]
 
         photo_path = gi.generate_image_with_facts(gi.generate_image_from_url(image),caption,"")
-
+        print(photo_path)
+        
         cc = CaptionCreator()
         edited_caption = "Days Since India Won A Cricket World Cup: "
         edited_caption += caption
