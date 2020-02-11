@@ -160,25 +160,25 @@ class GenerateImage():
         # return the image
         return img
 
-if __name__ == "__main__":
-    d = Data()
-    caption = d.get_string()
-    edited_caption = "01345 78901 34567 90123 56789 12345 78901 34567 90123 56789012 12345 78901 34567 90123 6789 12345 78901 34567 78901 34567 90123 6789 12345 78901 34567"
-    gi = GenerateImage(edited_caption)
+# if __name__ == "__main__":
+#     d = Data()
+#     caption = d.get_string()
+#     edited_caption = "01345 78901 34567 90123 56789 12345 78901 34567 90123 56789012 12345 78901 34567 90123 6789 12345 78901 34567 78901 34567 90123 6789 12345 78901 34567"
+#     gi = GenerateImage(edited_caption)
 
-    length = len(facts)
-    print('Number of facts -> ' + str(length))
-    random_number = randint(0,length-1)
-    print('random fact id -> '+ str(random_number))
-    print('Fact -> ' + facts[random_number])
-    fact = facts[random_number]
+#     length = len(facts)
+#     print('Number of facts -> ' + str(length))
+#     random_number = randint(0,length-1)
+#     print('random fact id -> '+ str(random_number))
+#     print('Fact -> ' + facts[random_number])
+#     fact = facts[random_number]
 
-    length_images = len(images)
-    print('Number of facts -> ' + str(length_images))
-    random_number_img = randint(0,length_images-1)
-    print('random fact id -> '+ str(random_number_img))
-    print('Fact -> ' + images[random_number_img])
-    image = images[random_number_img]
+#     length_images = len(images)
+#     print('Number of facts -> ' + str(length_images))
+#     random_number_img = randint(0,length_images-1)
+#     print('random fact id -> '+ str(random_number_img))
+#     print('Fact -> ' + images[random_number_img])
+#     image = images[random_number_img]
 
-    photo_path = gi.generate_image_with_facts(gi.generate_image_from_url(image),caption,"")
-    # gi.generate_image_from_url("https://images.unsplash.com/photo-1531415074968-036ba1b575da?ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80")
+#     photo_path = gi.generate_image_with_facts(gi.generate_image_from_url(image),caption,"")
+#     # gi.generate_image_from_url("https://images.unsplash.com/photo-1531415074968-036ba1b575da?ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80")
