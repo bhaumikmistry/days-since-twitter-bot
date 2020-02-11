@@ -106,6 +106,7 @@ class GenerateImage():
 
         filename = "data/{}.jpg".format(self.text)
         image_data.save(filename)
+        return filename
 
     def generate_image_from_url(self,link) -> Image:
         """
