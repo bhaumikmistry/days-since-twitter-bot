@@ -4,6 +4,7 @@ from caption_creator import CaptionCreator
 from tweet import Tweetdata
 from inatgrampost import InstagramPost
 from images import images as images
+from random import randint
 
 class PostDsiwacwc:
     def __init__(self):
