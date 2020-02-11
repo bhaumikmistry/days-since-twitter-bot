@@ -10,7 +10,7 @@ class CaptionCreator():
         text += "#CricketIndiaClub "
         text += "#Cricket "
         text += "#teamindia "
-        text += "#bleedblue "
+        text += "#IND"
         text += "#cricketlover "
         text += "#worldcup "
         text += "#DSIWACWC"
