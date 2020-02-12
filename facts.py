@@ -60,7 +60,11 @@ facts = [
     "Highest partnership for 7th wicket in ICC Cricket World Cup, 116 by, Ravindra Jadeja (77) & Mahendra Singh Dhoni (50) Against New Zealand at Manchester	in year 2019",
     "Highest partnership for 8th wicket in ICC Cricket World Cup, 82* by, Kapil Dev (72*) & Kiran More (42*) Against New Zealand	at Bangalore in year 1987",
     "Highest partnership for 9th wicket in ICC Cricket World Cup, 126* by, Kapil Dev (175*) & Syed Kirmani (24*) Against Zimbabwe at Tunbridge Wells	in year 1983",
-    "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007"
+    "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007",
+    "South Africa played ICC Cricket World Cup for the first time in 1992, Record Win % 61.9",
+    "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73  is Best of all.",
+    "In ICC Cricket World CUp, 2nd best win margin by runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
+    "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015"
 
 ]
 
