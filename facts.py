@@ -63,6 +63,7 @@ facts = [
     "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007",
     "South Africa played ICC Cricket World Cup for the first time in 1992, Record Win % 61.9",
     "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73  is Best of all.",
+<<<<<<< HEAD
     "In ICC Cricket World CUp, 2nd best win margin by runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
     "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",   
     "Highest match aggregate is 714-13 (100 overs) between Australia (381-5) v Bangladesh (333-8) in ICC Cricket World Cup at Trent Bridge, Nottingham on 20 June 2019",
@@ -88,6 +89,18 @@ facts = [
     "In ICC Cricket World Cup 1979, Team West Indies achieved a 100% win record, total Matches played 5, which includes one no result"
 
 
+=======
+    "In ICC Cricket World Cup, 2nd best win margin by highest runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
+    "In ICC Cricket World Cup, best win margin by highest runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",
+    "In ICC Cricket World Cup, best win margin by lower runs is Boundary Count, England (241) Super Over (15-0) beat New Zealand (241-8) Super Over(15-1) won on boundary count (26-17) at Lord's Cricket Ground, London 14 July 2019"
+    "In ICC Cricket World Cup, best win margin by lower runs is 1 run when Australia (270–6) beat India (269) at M. A. Chidambaram Stadium, Chennai on 9 October 1987",
+    "In ICC Cricket World Cup, best win margin by lower runs is 1 run when Australia (237–9) beat India (234) [Target 236 (D/L Method)]	at The Gabba, Brisbane on 1 March 1992",
+    "In ICC Cricket World Cup, Highest innings totals is 417–6 (50 overs) Australia vs Afghanistan at WACA Ground, Perth on 4 March 2015",
+    "In ICC Cricket World Cup, second Highest innings totals is 413–5 (50 overs) India vs Bermuda at Queen's Park Oval, Port of Spain on 19 March 2007",
+    "In ICC Cricket World Cup, third Highest innings totals is 411–4 (50 overs) South Africa vs Ireland	at Manuka Oval, Canberra on 3 March 2015",
+    "In ICC Cricket World Cup, fourth Highest innings totals is 408–5 (50 overs) South Africa vs West Indies at Sydney Cricket Ground, Sydney on 27 February 2015",
+    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs  Kenya Asgiriya Stadium, Kandy	on 6 March 1996"
+>>>>>>> 26728979579f2d4aa25b880c23a9408f36f604b6
 ]
 
 
