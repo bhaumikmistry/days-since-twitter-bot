@@ -64,9 +64,15 @@ facts = [
     "South Africa played ICC Cricket World Cup for the first time in 1992, Record Win % 61.9",
     "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73  is Best of all.",
     "In ICC Cricket World CUp, 2nd best win margin by runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
-    "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015"
+    "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",   
+    "Highest match aggregate is 714-13 (100 overs) between Australia (381-5) v Bangladesh (333-8) in ICC Cricket World Cup at Trent Bridge, Nottingham on 20 June 2019",
+    "2nd Highest match aggregate is 688–18 (96.2 overs) between Australia (376–9) v Sri Lanka (312–9) in ICC Cricket World Cup at Sydney Cricket Ground, Sydney on 8 March 2015",
+    "3rd Highest match aggregate is 682–17 (100 overs) between Pakistan (348–8) v England (334–9) in ICC Cricket World Cup at Trent Bridge, Nottingham on 3 June 2019",
+    "4th Highest match aggregate is 676–18 (99.5 overs) between India (338) v England (338–8) in ICC Cricket World Cup at M. Chinnaswamy Stadium, Bangalore on 27 February 2011",
+    "5th Highest match aggregate is 671–16 (98.0 overs) between Australia (377–6) v South Africa (294) in ICC Cricket World Cup at Warner Park Sporting Complex, Basseterre on 24 March 2007"
 
 ]
+
 
 
 
