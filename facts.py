@@ -81,8 +81,15 @@ facts = [
     "4th Highest run chase is 313–7 (49.2 overs) by team Sri Lanka against team Zimbabwe in ICC Cricket World Cup at Pukekura Park, New Plymouth on 23 February 1992",
     "5th Highest run chase is 312–1 (47.2 overs) by team Sri Lanka against team England in ICC Cricket World Cup at Westpac Stadium, Wellington on 1 March 2015",
     "In the 2011 Cricket World Cup, Highest run chase could have been 338-8 when England scored 338–8 in the second innings to tie their game against India, Match resulted in tie."
+    "In ICC Cricket World Cup 2007, Team Australia achieved a 100% win record, total Matches played 11 ",
+    "In ICC Cricket World Cup 2003, Team Australia achieved a 100% win record, total Matches played 11",
+    "In ICC Cricket World Cup 1996, Team Sri Lanka achieved a 100% win record, total Matches played 8, which includes 2 wins on forfeit",
+    "In ICC Cricket World Cup 1975, Team West Indies	achieved a 100% win record, total Matches played 5",
+    "In ICC Cricket World Cup 1979, Team West Indies achieved a 100% win record, total Matches played 5, which includes one no result"
+
 
 ]
+
 
 
 # if __name__ == "__main__":
