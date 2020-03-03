@@ -9,7 +9,7 @@ facts = [
     "Lowest Completed Innings, 125(41.4 overs)	v Australia, Australia won by 9 wickets, 11th Match, ICC World Cup at Centurion, Feb 15 2003",
     "2nd Lowest Completed Innings, 158 (37.5 overs)	v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
     "3rd Lowest Completed Innings, 182 (55.5 overs)	v New Zealand, New Zealand won by 8 wickets, 6th Match, ICC Cricket World Cup at Leeds, Jun 13 1979",
-    "4th Lowest Completed Innings, 183 (54.4 overs)	v West Indies,  India won by 43 runs, Final, ICC Cricket World Cup at Lord's, Jun 25 1983",
+    "4th Lowest Completed Innings, 183 (54.4 overs)	v West Indies, India won by 43 runs, Final, ICC Cricket World Cup at Lord's, Jun 25 1983",
     "5th Lowest Completed Innings, 185 (43.3 overs)	v Sri Lanka, Sri Lanka won by 69 runs, 20th Match, Group B, ICC World Cup at Port of Spain, Mar 23 2007",
     "Best Bowling Innings Figures, 6–23 (10 overs) Ashish Nehra v England, India won by 82 runs, 30th Match (D/N), ICC World Cup at Durban, Feb 26 2003",
     "2nd Best Bowling Innings Figures, 5–27 (9.3 overs) Venkatesh Prasad v Pakistan, India won by 47 runs, 4th Super, ICC World Cup at Manchester, Jun 8 1999",
@@ -30,21 +30,21 @@ facts = [
     "In ICC Cricket World Cup Year 2019, at England Wales, India's last position was - Semi-finals, Games Played 10, Won 7, No result 1, Lost 2, with Captain Virat Kohli",
     "India's Record in ICC Cricket World Cup, Wins: 2, Total Games Played: 85, Won: 53, No Result: 3, Lost: 29",
     "In ICC Cricket World Cup, India's record against Australia: Match Played 12, Won 4, Lost 8, Tied 0, No Result 0, Win % 33.33, First Match Played on 13 June 1983",
-    "In ICC Cricket World Cup, India's record against Afghanistan: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 22 June 2019",
-    "In ICC Cricket World Cup, India's record against Bangladesh: Match Played 4, Won 3, Lost 1, Tied	0, No Result 0, Win % 75.00, First Match Played on 17 March 2007",
-    "In ICC Cricket World Cup, India's record against Bermuda: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 19  March 2007",
-    "In ICC Cricket World Cup, India's record against East Africa: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 11 June 1975",
-    "In ICC Cricket World Cup, India's record against England: Match Played 8, Won 3, Lost 4, Tied	1, No Result 0, Win % 37.5, First Match Played on 7 June 1975",
-    "In ICC Cricket World Cup, India's record against Ireland: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 6   March 2011",
-    "In ICC Cricket World Cup, India's record against Kenya: Match Played 4, Won 4, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 18 February 1996",
-    "In ICC Cricket World Cup, India's record against Namibia: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 23 February 2003",
-    "In ICC Cricket World Cup, India's record against Netherlands: Match Played 2, Won 2, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 12 February 2003",
-    "In ICC Cricket World Cup, India's record against New Zealand: Match Played 8, Won 3, Lost 5, Tied	0, No Result 0, Win % 37.5, First Match Played on 4 June 1975",
-    "In ICC Cricket World Cup, India's record against Pakistan: Match Played 7, Won 7, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 4 March 1992",
-    "In ICC Cricket World Cup, India's record against South Africa: Match Played 5, Won 2, Lost 3, Tied	0, No Result 0, Win % 40, First Match Played on 15 March 1992",
-    "In ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied	0, No Result 1, Win % 44.44, First Match Played on 18 June 1979",
-    "In ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied	0, No Result 0, Win % 100, First Match Played on 28 February 2015",
-    "In ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied	0, No Result 0, Win % 66.66, First Match Played on 9 June 1979",
+    "In ICC Cricket World Cup, India's record against Afghanistan: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 22 June 2019",
+    "In ICC Cricket World Cup, India's record against Bangladesh: Match Played 4, Won 3, Lost 1, Tied 0, No Result 0, Win % 75.00, First Match Played on 17 March 2007",
+    "In ICC Cricket World Cup, India's record against Bermuda: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 19 March 2007",
+    "In ICC Cricket World Cup, India's record against East Africa: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 11 June 1975",
+    "In ICC Cricket World Cup, India's record against England: Match Played 8, Won 3, Lost 4, Tied 1, No Result 0, Win % 37.5, First Match Played on 7 June 1975",
+    "In ICC Cricket World Cup, India's record against Ireland: Match Played 2, Won 2, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 6 March 2011",
+    "In ICC Cricket World Cup, India's record against Kenya: Match Played 4, Won 4, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 18 February 1996",
+    "In ICC Cricket World Cup, India's record against Namibia: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 23 February 2003",
+    "In ICC Cricket World Cup, India's record against Netherlands: Match Played 2, Won 2, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 12 February 2003",
+    "In ICC Cricket World Cup, India's record against New Zealand: Match Played 8, Won 3, Lost 5, Tied 0, No Result 0, Win % 37.5, First Match Played on 4 June 1975",
+    "In ICC Cricket World Cup, India's record against Pakistan: Match Played 7, Won 7, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 4 March 1992",
+    "In ICC Cricket World Cup, India's record against South Africa: Match Played 5, Won 2, Lost 3, Tied 0, No Result 0, Win % 40, First Match Played on 15 March 1992",
+    "In ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied 0, No Result 1, Win % 44.44, First Match Played on 18 June 1979",
+    "In ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 28 February 2015",
+    "In ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied 0, No Result 0, Win % 66.66, First Match Played on 9 June 1979",
     "In ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89, First Match Played on 11 June 1983",
     "Highest partnerships in ICC Cricket World Cup, Total Runs 318 (2nd wicket), Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka	at Taunton in 1999",
     "2nd Highest partnerships in ICC Cricket World Cup, Total Runs 244 (2nd wicket), Sachin Tendulkar (152) & Sourav Ganguly (111) Against Namibia at Pietermaritzburg in 2003",
@@ -62,9 +62,9 @@ facts = [
     "Highest partnership for 9th wicket in ICC Cricket World Cup, 126* by, Kapil Dev (175*) & Syed Kirmani (24*) Against Zimbabwe at Tunbridge Wells	in year 1983",
     "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007",
     "South Africa played ICC Cricket World Cup for the first time in 1992, Record Win % 61.9",
-    "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73  is Best of all.",
+    "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73 is Best of all.",
     "In ICC Cricket World CUp, 2nd best win margin by runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
-    "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",   
+    "In ICC Cricket World CUp, best win margin by runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",
     "Highest match aggregate is 714-13 (100 overs) between Australia (381-5) v Bangladesh (333-8) in ICC Cricket World Cup at Trent Bridge, Nottingham on 20 June 2019",
     "2nd Highest match aggregate is 688–18 (96.2 overs) between Australia (376–9) v Sri Lanka (312–9) in ICC Cricket World Cup at Sydney Cricket Ground, Sydney on 8 March 2015",
     "3rd Highest match aggregate is 682–17 (100 overs) between Pakistan (348–8) v England (334–9) in ICC Cricket World Cup at Trent Bridge, Nottingham on 3 June 2019",
@@ -74,7 +74,7 @@ facts = [
     "2nd Lowest match aggregate is 91–12 (54.2 overs) between England (46–2) v Canada (45) in ICC Cricket World Cup at Old Trafford, Manchester on 13 June 1979",
     "3rd Lowest match aggregate is 117–11 (31.1 overs) between West Indies (59–1) v Bangladesh (58) in ICC Cricket World Cup at Sher-e-Bangla National Stadium, Dhaka on 4 March 2011",
     "4th Lowest match aggregate is 138–12 (41.4 overs) between West Indies (70–2) v Scotland (68) in ICC Cricket World Cup at Grace Road, Leicester on 27 May 1999",
-    "5th Lowest match aggregate is 141–10 (31.5 overs) between New Zealand (72–0) v Kenya (69) in ICC Cricket World Cup at M. A. Chidambaram Stadium, Chennai on 20 February 2011",    
+    "5th Lowest match aggregate is 141–10 (31.5 overs) between New Zealand (72–0) v Kenya (69) in ICC Cricket World Cup at M. A. Chidambaram Stadium, Chennai on 20 February 2011",
     "Highest run chase is 329–7 (49.1 overs) by team Ireland against team England in ICC Cricket World Cup at M. Chinnaswamy Stadium, Bengaluru on 2 March 2011",
     "2nd Highest run chase is 322–3 (41.3 overs) by team Bangladesh against team West Indies in ICC Cricket World Cup at County Ground, Taunton on 17 June 2019",
     "3rd Highest run chase is 322–4 (48.1 overs) by team Bangladesh against team Scotland in ICC Cricket World Cup at Saxton Oval, Nelson on 5 March 2015",
@@ -95,7 +95,7 @@ facts = [
     "In ICC Cricket World Cup, second Highest innings totals is 413–5 (50 overs) India vs Bermuda at Queen's Park Oval, Port of Spain on 19 March 2007",
     "In ICC Cricket World Cup, third Highest innings totals is 411–4 (50 overs) South Africa vs Ireland	at Manuka Oval, Canberra on 3 March 2015",
     "In ICC Cricket World Cup, fourth Highest innings totals is 408–5 (50 overs) South Africa vs West Indies at Sydney Cricket Ground, Sydney on 27 February 2015",
-    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs  Kenya Asgiriya Stadium, Kandy	on 6 March 1996",
+    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs Kenya Asgiriya Stadium, Kandy	on 6 March 1996",
     "In ICC Cricket World Cup History, 2,278 by Sachin Tendulkar of India in 45 Matches and 44 Innings with High Score of 152 and Average 56.95, total 100's:6, 50's:15 in period 1992-2011",
     "In ICC Cricket World Cup History, 1,743 by Ricky Ponting of Australia in 46 Matches and 42 Innings with High Score of	140* and Average 45.86, total 100's:5, 50's:6 in period 1996–2011",
     "In ICC Cricket World Cup History, 1,532 by Kumar Sangakkara of Sri Lanka in 37 Matches and 35 Innings with High Score of 124 and Average 56.74, total 100's:5, 50's:7 in period 2003–2015",
@@ -108,14 +108,11 @@ facts = [
     "In ICC Cricket World Cup History 5th Highest individual scores is 181 by Viv Richards of West Indies Cricket Board in 125 Balls with 16 4s 7 6s 144.80 SR against Sri Lanka National Stadium, Karachi on 13 October 1987"
 ]
 
+# if __name__ == "__main__":
+#     length = len(facts)
+#     print(f'length -> {length}')
 
-
-
-if __name__ == "__main__":
-    length = len(facts)
-    print(f'length -> {length}')
-
-    random_number = randint(0,length-1)
-    print(f'random -> {random_number}')
-    print(f'Fact -> {facts[random_number]}')
+#     random_number = randint(0,length-1)
+#     print(f'random -> {random_number}')
+#     print(f'Fact -> {facts[random_number]}')
 
