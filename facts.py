@@ -95,7 +95,12 @@ facts = [
     "In ICC Cricket World Cup, second Highest innings totals is 413–5 (50 overs) India vs Bermuda at Queen's Park Oval, Port of Spain on 19 March 2007",
     "In ICC Cricket World Cup, third Highest innings totals is 411–4 (50 overs) South Africa vs Ireland	at Manuka Oval, Canberra on 3 March 2015",
     "In ICC Cricket World Cup, fourth Highest innings totals is 408–5 (50 overs) South Africa vs West Indies at Sydney Cricket Ground, Sydney on 27 February 2015",
-    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs  Kenya Asgiriya Stadium, Kandy	on 6 March 1996"
+    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs  Kenya Asgiriya Stadium, Kandy	on 6 March 1996",
+    "In ICC Cricket World Cup History, 2,278 by Sachin Tendulkar of India in 45 Matches and 44 Innings with High Score of 152 and Average 56.95, total 100's:6, 50's:15 in period 1992-2011",
+    "In ICC Cricket World Cup History, 1,743 by Ricky Ponting of Australia in 46 Matches and 42 Innings with High Score of	140* and Average 45.86, total 100's:5, 50's:6 in period 1996–2011",
+    "In ICC Cricket World Cup History, 1,532 by Kumar Sangakkara of Sri Lanka in 37 Matches and 35 Innings with High Score of 124 and Average 56.74, total 100's:5, 50's:7 in period 2003–2015",
+    "In ICC Cricket World Cup History, 1,225 by Brian Lara of West Indies in 34 Matches and 33 Innings with High Score of 116 and Average 42.24, total 100's:2, 50's:7	in period 1992–2007",
+    "In ICC Cricket World Cup History, 1,207 by AB de Villiers of South Africa in 23 Matches and 23 Innings with High Score of 162* and Average 63.52, total 100's:4, 50's:6 in period 2007–2015"
 ]
 
 
