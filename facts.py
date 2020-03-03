@@ -100,16 +100,22 @@ facts = [
     "In ICC Cricket World Cup History, 1,743 by Ricky Ponting of Australia in 46 Matches and 42 Innings with High Score of	140* and Average 45.86, total 100's:5, 50's:6 in period 1996–2011",
     "In ICC Cricket World Cup History, 1,532 by Kumar Sangakkara of Sri Lanka in 37 Matches and 35 Innings with High Score of 124 and Average 56.74, total 100's:5, 50's:7 in period 2003–2015",
     "In ICC Cricket World Cup History, 1,225 by Brian Lara of West Indies in 34 Matches and 33 Innings with High Score of 116 and Average 42.24, total 100's:2, 50's:7	in period 1992–2007",
-    "In ICC Cricket World Cup History, 1,207 by AB de Villiers of South Africa in 23 Matches and 23 Innings with High Score of 162* and Average 63.52, total 100's:4, 50's:6 in period 2007–2015"
+    "In ICC Cricket World Cup History, 1,207 by AB de Villiers of South Africa in 23 Matches and 23 Innings with High Score of 162* and Average 63.52, total 100's:4, 50's:6 in period 2007–2015",
+    "In ICC Cricket World Cup History Highest individual scores is 237* by Martin Guptil of New Zealand in 163 Balls with 24 4s 11 6s with 145.39 SR	against West Indies at Venue Wellington, New Zealand on 21 March 2015",
+    "In ICC Cricket World Cup History 2nd Highest individual scores is 215 by Chris Gayle of West Indies Cricket Board in 147 Balls with 10 4s 16 6s with 146.25 SR against Zimbabwe at Venue Manuka Oval, Canberra on 24 February 2015",
+    "In ICC Cricket World Cup History 3rd Highest individual scores is 188 by Gary Kirsten of South Africa in 159 Balls with 13 4s 4 6s with 118.23 SR against United Arab Emirates at Rawalpindi Cricket Stadium, Rawalpindi on 16 February 1996",
+    "In ICC Cricket World Cup History 4th Highest individual scores is 183 by Sourav Gangulyof India in 158 Balls with 17 4s 7 6s with 115.82 SR against Sri Lanka at Venue County ground, Taunton on 26 May 1999",
+    "In ICC Cricket World Cup History 5th Highest individual scores is 181 by Viv Richards of West Indies Cricket Board in 125 Balls with 16 4s 7 6s 144.80 SR against Sri Lanka National Stadium, Karachi on 13 October 1987"
 ]
 
 
 
-# if __name__ == "__main__":
-#     length = len(facts)
-#     print(f'length -> {length}')
 
-#     random_number = randint(0,length-1)
-#     print(f'random -> {random_number}')
-#     print(f'Fact -> {facts[random_number]}')
+if __name__ == "__main__":
+    length = len(facts)
+    print(f'length -> {length}')
+
+    random_number = randint(0,length-1)
+    print(f'random -> {random_number}')
+    print(f'Fact -> {facts[random_number]}')
 
