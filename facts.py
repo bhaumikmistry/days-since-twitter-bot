@@ -105,14 +105,21 @@ facts = [
     "In ICC Cricket World Cup History 2nd Highest individual scores is 215 by Chris Gayle of West Indies Cricket Board in 147 Balls with 10 4s 16 6s with 146.25 SR against Zimbabwe at Venue Manuka Oval, Canberra on 24 February 2015",
     "In ICC Cricket World Cup History 3rd Highest individual scores is 188 by Gary Kirsten of South Africa in 159 Balls with 13 4s 4 6s with 118.23 SR against United Arab Emirates at Rawalpindi Cricket Stadium, Rawalpindi on 16 February 1996",
     "In ICC Cricket World Cup History 4th Highest individual scores is 183 by Sourav Gangulyof India in 158 Balls with 17 4s 7 6s with 115.82 SR against Sri Lanka at Venue County ground, Taunton on 26 May 1999",
-    "In ICC Cricket World Cup History 5th Highest individual scores is 181 by Viv Richards of West Indies Cricket Board in 125 Balls with 16 4s 7 6s 144.80 SR against Sri Lanka National Stadium, Karachi on 13 October 1987"
+    "In ICC Cricket World Cup History 5th Highest individual scores is 181 by Viv Richards of West Indies Cricket Board in 125 Balls with 16 4s 7 6s 144.80 SR against Sri Lanka National Stadium, Karachi on 13 October 1987",
+    "In ICC Cricket World Cup History Highest average is 124.00 by Lance Klusener of South Africa in 14 Matches and 11 Innings with 8 Not Out, total of 372 runs in 1999–2003 span",
+    "In ICC Cricket World Cup History 2nd Highest average is 103.0 by Andrew Symonds of Australia in 18 Matches and 13 Innings with 8 Not Out, total of 515 runs in 2003–2007 span",
+    "In ICC Cricket World Cup History 3rd Highest average is 66.42 by Ben Stokes of England in 11 Matches and 10 Innings with 3 Not Out, total of 465 runs in 2019-2019 span",
+    "In ICC Cricket World Cup History 4th Highest average is 65.20 by Rohit Sharma of India in 17 Matches and 17 Innings with 2 Not Out, total of 978 runs in 2015–2019 span",
+    "In ICC Cricket World Cup History 5th Highest average is 63.52 by AB de Villiers of South Africa in 23 Matches and 22 Innings with 3 Not Out, total of 1207 runs in 2007–2015 span"
 ]
 
-# if __name__ == "__main__":
-#     length = len(facts)
-#     print(f'length -> {length}')
 
-#     random_number = randint(0,length-1)
-#     print(f'random -> {random_number}')
-#     print(f'Fact -> {facts[random_number]}')
+
+if __name__ == "__main__":
+    length = len(facts)
+    print(f'length -> {length}')
+
+    random_number = randint(0,length-1)
+    print(f'random -> {random_number}')
+    print(f'Fact -> {facts[random_number]}')
 
