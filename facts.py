@@ -6,14 +6,14 @@ facts = [
     "3rd Highest Innings total, 370–4 (50 overs) v Bangladesh, India won by 87 runs, 1st Match, Group B (D/N), ICC Cricket World Cup at Dhaka, Feb 19 2011",
     "4th Highest Innings total, 352–5 (50 overs) v Australia, India won by 36 runs, 14th match, ICC Cricket World Cup at The Oval, Jun 9 2019",
     "5th Highest Innings total, 338 (49.5 overs) v England, Match tied, 11th Match, Group B (D/N), ICC Cricket World Cup at Bengaluru, Feb 27 2011",
-    "Lowest Completed Innings, 125(41.4 overs)	v Australia, Australia won by 9 wickets, 11th Match, ICC World Cup at Centurion, Feb 15 2003",
-    "2nd Lowest Completed Innings, 158 (37.5 overs)	v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
-    "3rd Lowest Completed Innings, 182 (55.5 overs)	v New Zealand, New Zealand won by 8 wickets, 6th Match, ICC Cricket World Cup at Leeds, Jun 13 1979",
-    "4th Lowest Completed Innings, 183 (54.4 overs)	v West Indies, India won by 43 runs, Final, ICC Cricket World Cup at Lord's, Jun 25 1983",
-    "5th Lowest Completed Innings, 185 (43.3 overs)	v Sri Lanka, Sri Lanka won by 69 runs, 20th Match, Group B, ICC World Cup at Port of Spain, Mar 23 2007",
+    "Lowest Completed Innings, 125(41.4 overs) v Australia, Australia won by 9 wickets, 11th Match, ICC World Cup at Centurion, Feb 15 2003",
+    "2nd Lowest Completed Innings, 158 (37.5 overs) v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
+    "3rd Lowest Completed Innings, 182 (55.5 overs) v New Zealand, New Zealand won by 8 wickets, 6th Match, ICC Cricket World Cup at Leeds, Jun 13 1979",
+    "4th Lowest Completed Innings, 183 (54.4 overs) v West Indies, India won by 43 runs, Final, ICC Cricket World Cup at Lord's, Jun 25 1983",
+    "5th Lowest Completed Innings, 185 (43.3 overs) v Sri Lanka, Sri Lanka won by 69 runs, 20th Match, Group B, ICC World Cup at Port of Spain, Mar 23 2007",
     "Best Bowling Innings Figures, 6–23 (10 overs) Ashish Nehra v England, India won by 82 runs, 30th Match (D/N), ICC World Cup at Durban, Feb 26 2003",
     "2nd Best Bowling Innings Figures, 5–27 (9.3 overs) Venkatesh Prasad v Pakistan, India won by 47 runs, 4th Super, ICC World Cup at Manchester, Jun 8 1999",
-    "3rd Best Bowling Innings Figures, 5–31 (9.3 overs) Robin Singh	v Sri Lanka, India won by 157 runs, 21st Match, ICC World Cup at Taunton, May 26 1999",
+    "3rd Best Bowling Innings Figures, 5–31 (9.3 overs) Robin Singh v Sri Lanka, India won by 157 runs, 21st Match, ICC World Cup at Taunton, May 26 1999",
     "4th Best Bowling Innings Figures, 5–31 (10 overs) Yuvraj Singh v Ireland, India won by 5 wickets, 22nd Match, Group B (D/N), ICC Cricket World Cup at Bengaluru, Mar 6 2011",
     "5th Best Bowling Innings Figures, 5–43 (12 overs) Kapil Dev v Australia, Australia won by 162 runs, 11th Match, ICC Cricket World Cup at Nottingham, Jun 13 1983",
     "In ICC Cricket World Cup Year 1975, at England, India's last position was - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain S Venkataraghavan",
@@ -23,7 +23,7 @@ facts = [
     "In ICC Cricket World Cup Year 1992, at Australia New Zealand, India's last position was - India's last position was at Round-robin, Games Played 8, Won 2, No result 1, Lost 5, with Captain M Azharuddin",
     "In ICC Cricket World Cup Year 1996, at India Pakistan Sri Lanka, India's last position was - Semi-finals, Games Played 7, Won 4, No result 0, Lost 3, with Captain M Azharuddin",
     "In ICC Cricket World Cup Year 1999, at England Scotland Ireland Netherlands, India's last position was - Super Six, Games Played 8, Won 4, No result 0, Lost 4, with Captain M Azharuddin",
-    "In ICC Cricket World Cup Year 2003, at South Africa Zimbabwe Kenya, India's last position was - Runners-up,	Games Played 11, Won 9, No result 0, Lost 2, with Captain Sourav Ganguly",
+    "In ICC Cricket World Cup Year 2003, at South Africa Zimbabwe Kenya, India's last position was - Runners-up, Games Played 11, Won 9, No result 0, Lost 2, with Captain Sourav Ganguly",
     "In ICC Cricket World Cup Year 2007, at West Indies Cricket Board, India's last position was - Group stage, Games Played 3, Won 1, No result 0, Lost 2, with Captain Rahul Dravid",
     "In ICC Cricket World Cup Year 2011, at India Bangladesh Sri Lanka, India's last position was - Champions, Games Played 9, Won 7, No result 1, Lost 1, with Captain MS Dhoni",
     "In ICC Cricket World Cup Year 2015, at Australia New Zealand, India's last position was - Semi-finals, Games Played 8, Won 7, No result 0, Lost 1, with Captain MS Dhoni",
@@ -45,22 +45,22 @@ facts = [
     "In ICC Cricket World Cup, India's record against Sri Lanka: Match Played 9, Won 4, Lost 4, Tied 0, No Result 1, Win % 44.44, First Match Played on 18 June 1979",
     "In ICC Cricket World Cup, India's record against United Arab Emirates: Match Played 1, Won 1, Lost 0, Tied 0, No Result 0, Win % 100, First Match Played on 28 February 2015",
     "In ICC Cricket World Cup, India's record against West Indies: Match Played 9, Won 6, Lost 3, Tied 0, No Result 0, Win % 66.66, First Match Played on 9 June 1979",
-    "In ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied	0, No Result 0, Win % 88.89, First Match Played on 11 June 1983",
-    "Highest partnerships in ICC Cricket World Cup, Total Runs 318 (2nd wicket), Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka	at Taunton in 1999",
+    "In ICC Cricket World Cup, India's record against Zimbabwe: Match Played 9, Won 8, Lost 1, Tied 0, No Result 0, Win % 88.89, First Match Played on 11 June 1983",
+    "Highest partnerships in ICC Cricket World Cup, Total Runs 318 (2nd wicket), Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka at Taunton in 1999",
     "2nd Highest partnerships in ICC Cricket World Cup, Total Runs 244 (2nd wicket), Sachin Tendulkar (152) & Sourav Ganguly (111) Against Namibia at Pietermaritzburg in 2003",
     "3rd Highest partnerships in ICC Cricket World Cup, Total Runs 237* (3rd wicket), Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in 1999",
     "4th Highest partnerships in ICC Cricket World Cup, Total Runs 203 (3rd wicket), Virender Sehwag (175) & Virat Kohli (100) Against Bangladesh at Dhaka in 2011",
     "5th Highest partnerships in ICC Cricket World Cup, Total Runs 202 (2nd wicket), Sourav Ganguly (89) & Virender Sehwag (114) Against Bermuda at Port of Spain in 2007",
     "Highest partnership for 1st wicket in ICC Cricket World Cup, 189 by, Rohit Sharma (103) & K. L. Rahul (111) Against Sri Lanka at Leeds in year 2019",
-    "Highest partnership for 2nd wicket in ICC Cricket World Cup, 318 by, Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka at Taunton	in year 1999",
+    "Highest partnership for 2nd wicket in ICC Cricket World Cup, 318 by, Sourav Ganguly (183) & Rahul Dravid (145) Against Sri Lanka at Taunton in year 1999",
     "Highest partnership for 3rd wicket in ICC Cricket World Cup, 237* by, Rahul Dravid (104*) & Sachin Tendulkar (140*) Against Kenya at Bristol in year 1999",
     "Highest partnership for 4th wicket in ICC Cricket World Cup, 142 by, Navjot Singh Sidhu (80) & Vinod Kambli (106) Against Zimbabwe at Kanpur in year 1996",
-    "Highest partnership for 5th wicket in ICC Cricket World Cup, 196* by, Suresh Raina (110*) & Mahendra Singh Dhoni (85*) Against Zimbabwe at Auckland	in year 2015",
-    "Highest partnership for 6th wicket in ICC Cricket World Cup, 74* by, Suresh Raina (34*) & Yuvraj Singh (57*) Against Australia at Ahmedabad	in year 2011",
-    "Highest partnership for 7th wicket in ICC Cricket World Cup, 116 by, Ravindra Jadeja (77) & Mahendra Singh Dhoni (50) Against New Zealand at Manchester	in year 2019",
-    "Highest partnership for 8th wicket in ICC Cricket World Cup, 82* by, Kapil Dev (72*) & Kiran More (42*) Against New Zealand	at Bangalore in year 1987",
-    "Highest partnership for 9th wicket in ICC Cricket World Cup, 126* by, Kapil Dev (175*) & Syed Kirmani (24*) Against Zimbabwe at Tunbridge Wells	in year 1983",
-    "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh	at Port of Spain in year 2007",
+    "Highest partnership for 5th wicket in ICC Cricket World Cup, 196* by, Suresh Raina (110*) & Mahendra Singh Dhoni (85*) Against Zimbabwe at Auckland in year 2015",
+    "Highest partnership for 6th wicket in ICC Cricket World Cup, 74* by, Suresh Raina (34*) & Yuvraj Singh (57*) Against Australia at Ahmedabad in year 2011",
+    "Highest partnership for 7th wicket in ICC Cricket World Cup, 116 by, Ravindra Jadeja (77) & Mahendra Singh Dhoni (50) Against New Zealand at Manchester in year 2019",
+    "Highest partnership for 8th wicket in ICC Cricket World Cup, 82* by, Kapil Dev (72*) & Kiran More (42*) Against New Zealand at Bangalore in year 1987",
+    "Highest partnership for 9th wicket in ICC Cricket World Cup, 126* by, Kapil Dev (175*) & Syed Kirmani (24*) Against Zimbabwe at Tunbridge Wells in year 1983",
+    "Highest partnership for 10th wicketh in ICC Cricket World Cup, 32 by, Zaheer Khan (15) & Munaf Patel (15) Against Bangladesh at Port of Spain in year 2007",
     "South Africa played ICC Cricket World Cup for the first time in 1992, Record Win % 61.9",
     "In ICC Cricket World Cup, Australia's record from 1975 to 2019, total games 94, Won 69, Lost 23, Tied 1, No Result 1, Win % 74.73 is Best of all.",
     "In ICC Cricket World CUp, 2nd best win margin by runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
@@ -84,22 +84,22 @@ facts = [
     "In ICC Cricket World Cup 2007, Team Australia achieved a 100% win record, total Matches played 11 ",
     "In ICC Cricket World Cup 2003, Team Australia achieved a 100% win record, total Matches played 11",
     "In ICC Cricket World Cup 1996, Team Sri Lanka achieved a 100% win record, total Matches played 8, which includes 2 wins on forfeit",
-    "In ICC Cricket World Cup 1975, Team West Indies	achieved a 100% win record, total Matches played 5",
+    "In ICC Cricket World Cup 1975, Team West Indies achieved a 100% win record, total Matches played 5",
     "In ICC Cricket World Cup 1979, Team West Indies achieved a 100% win record, total Matches played 5, which includes one no result",
     "In ICC Cricket World Cup, 2nd best win margin by highest runs is 257 runs, India (413–5) beat Bermuda (156) at Queen's Park Oval, Port of Spain, Trinidad on 19 March 2007",
     "In ICC Cricket World Cup, best win margin by highest runs is 275 runs, Australia (417–6) beat Afghanistan (142) at WACA, Perth on 4 March 2015",
     "In ICC Cricket World Cup, best win margin by lower runs is Boundary Count, England (241) Super Over (15-0) beat New Zealand (241-8) Super Over(15-1) won on boundary count (26-17) at Lord's Cricket Ground, London 14 July 2019"
     "In ICC Cricket World Cup, 2nd best win margin by lower runs is 1 run when Australia (270–6) beat India (269) at M. A. Chidambaram Stadium, Chennai on 9 October 1987",
-    "In ICC Cricket World Cup, 2nd best win margin by lower runs is 1 run when Australia (237–9) beat India (234) [Target 236 (D/L Method)]	at The Gabba, Brisbane on 1 March 1992",
+    "In ICC Cricket World Cup, 2nd best win margin by lower runs is 1 run when Australia (237–9) beat India (234) [Target 236 (D/L Method)] at The Gabba, Brisbane on 1 March 1992",
     "In ICC Cricket World Cup, Highest innings totals is 417–6 (50 overs) Australia vs Afghanistan at WACA Ground, Perth on 4 March 2015",
     "In ICC Cricket World Cup, second Highest innings totals is 413–5 (50 overs) India vs Bermuda at Queen's Park Oval, Port of Spain on 19 March 2007",
     "In ICC Cricket World Cup, third Highest innings totals is 411–4 (50 overs) South Africa vs Ireland at Manuka Oval, Canberra on 3 March 2015",
     "In ICC Cricket World Cup, fourth Highest innings totals is 408–5 (50 overs) South Africa vs West Indies at Sydney Cricket Ground, Sydney on 27 February 2015",
-    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs Kenya Asgiriya Stadium, Kandy	on 6 March 1996",
+    "In ICC Cricket World Cup, fifth Highest innings totals is 398–5 (50 overs) Sri Lanka vs Kenya Asgiriya Stadium, Kandy on 6 March 1996",
     "In ICC Cricket World Cup History, 2,278 runs scored by Sachin Tendulkar of India in 45 Matches and 44 Innings with High Score of 152 and Average 56.95, total 100's:6, 50's:15 in period 1992-2011",
     "In ICC Cricket World Cup History, 1,743 runs scored by Ricky Ponting of Australia in 46 Matches and 42 Innings with High Score of 140* and Average 45.86, total 100's:5, 50's:6 in period 1996–2011",
     "In ICC Cricket World Cup History, 1,532 runs scored by Kumar Sangakkara of Sri Lanka in 37 Matches and 35 Innings with High Score of 124 and Average 56.74, total 100's:5, 50's:7 in period 2003–2015",
-    "In ICC Cricket World Cup History, 1,225 runs scored by Brian Lara of West Indies in 34 Matches and 33 Innings with High Score of 116 and Average 42.24, total 100's:2, 50's:7	in period 1992–2007",
+    "In ICC Cricket World Cup History, 1,225 runs scored by Brian Lara of West Indies in 34 Matches and 33 Innings with High Score of 116 and Average 42.24, total 100's:2, 50's:7 in period 1992–2007",
     "In ICC Cricket World Cup History, 1,207 runs scored by AB de Villiers of South Africa in 23 Matches and 23 Innings with High Score of 162* and Average 63.52, total 100's:4, 50's:6 in period 2007–2015",
     "In ICC Cricket World Cup History Highest individual scores is 237* runs by Martin Guptil of New Zealand in 163 Balls with 24 4s 11 6s with 145.39 SR against West Indies at Venue Wellington, New Zealand on 21 March 2015",
     "In ICC Cricket World Cup History 2nd Highest individual scores is 215 runs by Chris Gayle of West Indies Cricket Board in 147 Balls with 10 4s 16 6s with 146.25 SR against Zimbabwe at Venue Manuka Oval, Canberra on 24 February 2015",
@@ -111,15 +111,20 @@ facts = [
     "In ICC Cricket World Cup History 3rd Highest average is 66.42 by Ben Stokes of England in 11 Matches and 10 Innings with 3 Not Out, total of 465 runs in 2019-2019 span",
     "In ICC Cricket World Cup History 4th Highest average is 65.20 by Rohit Sharma of India in 17 Matches and 17 Innings with 2 Not Out, total of 978 runs in 2015–2019 span",
     "In ICC Cricket World Cup History 5th Highest average is 63.52 by AB de Villiers of South Africa in 23 Matches and 22 Innings with 3 Not Out, total of 1207 runs in 2007–2015 span"
+    "In ICC Cricket World Cup History Highest Strike Rate is 169.25 by Glenn Maxwell of Australia with 18 Matches and 16 Innings, with 501 Runs and 296 Ball Faced in 2015–2019 span",
+    "In ICC Cricket World Cup History 2nd Highest Strike Rate is 126.53 by Jos Buttler of England with 17 Matches and 14 Innings, with 453 Runs and 358 Ball Faced in 2015–2019 span",
+    "In ICC Cricket World Cup History 3rd Highest Strike Rate is 121.17 by Lance Klusener of South Africa with 14 Matches and 11 Innings, with 372 Runs and 307 Ball Faced in 1999–2003 span",
+    "In ICC Cricket World Cup History 4th Highest Strike Rate is 120.84 by Brendon McCullum of New Zealand with 34 Matches and 27 Innings, with 742 Runs and 614 Ball Faced in 2003–2015 span",
+    "In ICC Cricket World Cup History 5th Highest Strike Rate is 117.94 by David Miller of South Africa wiht 14 Matches and 11 Innings, with 460 Runs and 390 Ball Faced in 2015–2019 span"
 ]
 
 
 
-if __name__ == "__main__":
-    length = len(facts)
-    print(f'length -> {length}')
+# if __name__ == "__main__":
+#     length = len(facts)
+#     print(f'length -> {length}')
 
-    random_number = randint(0,length-1)
-    print(f'random -> {random_number}')
-    print(f'Fact -> {facts[random_number]}')
+#     random_number = randint(0,length-1)
+#     print(f'random -> {random_number}')
+#     print(f'Fact -> {facts[random_number]}')
 
