@@ -12,20 +12,23 @@ def hello():
 def dsiwawc_all():
     post = PostDsiwacwc()
     post.Post("all")
-    return "Days since India Won a Work Cup!"
+    return "From(all) :- Days since India Won a Work Cup!"
 
 @app.route('/dsiwacwc/twiter')
 def dsiwawc_twiter():
     post = PostDsiwacwc()
     post.Post("tweet")
-    return "Days since India Won a Work Cup!"
+    return "From(twiter) :- Days since India Won a Work Cup!"
 
 @app.route('/dsiwacwc/instagram')
 def dsiwawc_instagram():
     post = PostDsiwacwc()
     post.Post("insta")
-    return "Days since India Won a Work Cup!"
+    return "From(instagram) :- Days since India Won a Work Cup!"
 
+@app.route('/dsiwacwc/testhook')
+def dsiwawc_instagram():
+    return "From(testhook) :-Test hook success!!"
 
 
 if __name__ == '__main__':
