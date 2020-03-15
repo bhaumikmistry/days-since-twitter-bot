@@ -16,23 +16,23 @@ class PostDsiwacwc:
 
         gi = GenerateImage(caption)
 
-        # length = len(facts)
-        # print('Number of facts -> ' + str(length))
-        # random_number = randint(0,length-1)
-        # print('random fact id -> '+ str(random_number))
-        # print('Fact -> ' + facts[random_number])
-        # fact = facts[random_number]
+        length = len(facts)
+        print('Number of facts -> ' + str(length))
+        random_number = randint(0,length-1)
+        print('random fact id -> '+ str(random_number))
+        print('Fact -> ' + facts[random_number])
+        fact = facts[random_number]
 
         length_images = len(images)
-        print('Number of facts -> ' + str(length_images))
+        print('Number of images -> ' + str(length_images))
         random_number_img = randint(0,length_images-1)
-        print('random fact id -> '+ str(random_number_img))
+        print('random img id -> '+ str(random_number_img))
         print('image -> ' + images[random_number_img])
         image = images[random_number_img]
 
-        photo_path = gi.generate_image_with_facts(gi.generate_image_from_url(image),caption,"")
+        photo_path = gi.generate_image_with_facts(gi.generate_image_from_url(image),caption,fact)
         print(photo_path)
-        
+
         cc = CaptionCreator()
         edited_caption = "Days Since India Won A Cricket World Cup: "
         edited_caption += caption
