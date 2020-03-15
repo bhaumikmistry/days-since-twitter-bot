@@ -27,8 +27,8 @@ def dsiwawc_instagram():
     return "From(instagram) :- Days since India Won a Work Cup!"
 
 @app.route('/dsiwacwc/testhook')
-def dsiwawc_instagram():
-    return "From(testhook) :-Test hook success!!"
+def dsiwawc_testhook():
+    return "From(testhook) :- Test hook success!!"
 
 
 if __name__ == '__main__':
