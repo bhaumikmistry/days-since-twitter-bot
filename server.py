@@ -28,6 +28,7 @@ def dsiwawc_instagram():
 
 @app.route('/dsiwacwc/testhook')
 def dsiwawc_testhook():
+    print(f"Running testhook!!")
     return "From(testhook) :- Test hook success!!"
 
 
