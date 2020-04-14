@@ -116,8 +116,22 @@ facts = [
     "In ICC Cricket World Cup History 3rd Highest Strike Rate is 121.17 by Lance Klusener of South Africa with 14 Matches and 11 Innings, with 372  Runs and 307 Ball Faced in 1999–2003 span",
     "In ICC Cricket World Cup History 4th Highest Strike Rate is 120.84 by Brendon McCullum of New Zealand with 34 Matches and 27 Innings, with 742  Runs and 614 Ball Faced in 2003–2015 span",
     "In ICC Cricket World Cup History 5th Highest Strike Rate is 117.94 by David Miller of South Africa wiht 14 Matches and 11 Innings, with 460  Runs and 390 Ball Faced in 2015–2019 span"
+    "Cricket World Cup year 1975 winner West Indies with score 291–8, runner-up Australia with score 274, Result West Indies won by 17 runs.",
+    "Cricket World Cup year 1979	winner West Indies with score 286–9, runner-up England with score 194, Result West Indies won by 92 runs",
+    "Cricket World Cup year 1983	winner India with score 183, runner-up West Indies with score 140, Result India won by 43 runs",
+    "Cricket World Cup year 1987	winner Australia with score 253–5, runner-up England with score 246–8, Result Australia won by 7 runs",
+    "Cricket World Cup year 1992	winner Pakistan with score 249–6, runner-up England with score 227, Result Pakistan won by 22 runs",
+    "Cricket World Cup year 1996	winner Sri Lanka with score 245–3, runner-up Australia with score 241, Result Sri Lanka won by 7 wickets"
+
 ]
 
+
+Cricket World Cup year 1999	winner Australia with score 133–2, runner-up Pakistan with score 132, Result Australia won by 8 wickets
+Cricket World Cup year 2003	winner Australia with score 359–2, runner-up India with score 234, Result Australia won by 125 runs
+Cricket World Cup year 2007	winner Australia with score 281–4, runner-up Sri Lanka  with score 215–8, Result Australia won by 53 runs
+Cricket World Cup year 2011	winner India with score 277–4, runner-up Sri Lanka with score 274–6, Result India won by 6 wickets
+Cricket World Cup year 2015	winner Australia with score 186–3, runner-up New Zealand with score 183, Result Australia won by 7 wickets
+Cricket World Cup year 2019	winner England with score 241, runner-up New Zealand with score 241–8, Result Match tied after regular play and super over; England won on boundary count
 
 
 # if __name__ == "__main__":
