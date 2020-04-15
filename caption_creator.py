@@ -13,6 +13,6 @@ class CaptionCreator():
         text += "#IND"
         text += "#cricketlover "
         text += "#worldcup "
-        text += "#DSIWACWC"
+        text += "#DSIWACWC "
         self.caption = text
         return self.caption
