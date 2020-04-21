@@ -127,10 +127,11 @@ facts = [
     "Cricket World Cup year 2007 winner Australia with score 281–4, runner-up Sri Lanka  with score 215–8, Result Australia won by 53 runs",
     "Cricket World Cup year 2011 winner India with score 277–4, runner-up Sri Lanka with score 274–6, Result India won by 6 wickets",
     "Cricket World Cup year 2015 winner Australia with score 186–3, runner-up New Zealand with score 183, Result Australia won by 7 wickets",
-    "Cricket World Cup year 2019 winner England with score 241, runner-up New Zealand with score 241–8, Result Match tied after regular play and super over; England won on boundary count"
-
+    "Cricket World Cup year 2019 winner England with score 241, runner-up New Zealand with score 241–8, Result Match tied after regular play and super over; England won on boundary count",
+    "India squad 1983, Kapil Dev (c), Mohinder A., Kirti A., Roger B., Sunil G., Syed K.(wk), Madan L., Sandeep P., Balwinder S., Yashpal S., Ravi S., Krishnamachari S., Sunil V., Dilip V.."
+    "Cricket World Cup year 1983 India's squad did not have a left-handed bastman.",
+    "Cricket World Cup year 1983 India's squad had 5 players from city of Mumbai in Indian domestic cricket."
 ]
-
 
 
 
